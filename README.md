@@ -17,8 +17,10 @@
 <img src="https://icons-for-free.com/iconfiles/png/128/tensorflow-1324440242699707768.png" width="40" height="50"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"  width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/50/000000/power-bi.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/ios/50/000000/big-data.png"width="40" height="40"/>
+
 
 ### Find me:
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/aroma-jain/)
